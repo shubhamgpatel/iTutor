@@ -1,0 +1,362 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+    padding: 0 15px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+/* Developer: Priyanka Khadilkar */
+
+.adminheader, .adminmain, .adminfooter {
+    padding-left: 300px;
+}
+
+.adminfooter {
+    padding-top: 0 !important;
+}
+
+.brand-sidebar {
+    top: 0;
+    left: 0;
+    height: 64px;
+
+}
+.height300{
+    height: 300px;
+}
+
+.floatright {
+    float: right;
+}
+
+
+.marginleft14 {
+    margin-left: 14px;
+}
+
+.brand-sidebar a {
+    color: white !important;
+    font-size: 24px !important;
+    padding-left: 38px !important;
+    padding-top: 6px !important;
+}
+
+.paddingleft0{
+    padding-left: 0 !important;
+}
+
+.fontsizeinherit{
+    font-size: inherit;
+}
+
+.fixed-card-height {
+    height: 213px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+nav .dropdown-content {
+    top: 65px !important;
+    width: 205.3px !important;
+}
+
+@media only screen and (max-width: 992px) {
+    .adminheader, .adminmain, .adminfooter {
+        padding-left: 0;
+    }
+
+    .sidenav-overlay {
+        z-index: 996 !important;
+    }
+}
+
+
+/* Developer: Het Kansara*/
+.marks-card{
+    position:absolute;
+    right: 20px;
+    top:20px;
+}
+
+.hidden {
+    display: none;
+}
+
+.margin-bottom-none {
+    margin-bottom: 0 !important;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active {
+    background-color: transparent;
+    color: orange;
+}
+
+.tabs .indicator {
+    background-color: orange;
+}
+
+.tabs .tab a {
+    color: rgba(255, 165, 0, 0.7);
+}
+
+.datepicker-date-display {
+    background-color: orange;
+}
+
+.confirmation-btns .datepicker-cancel, .confirmation-btns .datepicker-done {
+    color: orange;
+}
+
+input:not([type]):focus:not([readonly]),
+input[type=text]:not(.browser-default):focus:not([readonly]),
+input[type=password]:not(.browser-default):focus:not([readonly]),
+input[type=email]:not(.browser-default):focus:not([readonly]),
+input[type=url]:not(.browser-default):focus:not([readonly]),
+input[type=time]:not(.browser-default):focus:not([readonly]),
+input[type=date]:not(.browser-default):focus:not([readonly]),
+input[type=datetime]:not(.browser-default):focus:not([readonly]),
+input[type=datetime-local]:not(.browser-default):focus:not([readonly]),
+input[type=tel]:not(.browser-default):focus:not([readonly]),
+input[type=number]:not(.browser-default):focus:not([readonly]),
+input[type=search]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid orange;
+    -webkit-box-shadow: 0 1px 0 0 orange;
+    box-shadow: 0 1px 0 0 orange;
+}
+
+.input-field .prefix.active {
+    color: orange;
+}
+
+.btn, .btn-large, .btn-small {
+    background-color: #607d8b;
+}
+
+.login-card .row {
+    margin-bottom: 0;
+}
+
+.material-icons {
+    color: #607d8b;
+}
+
+.btn .material-icons {
+    color: white;
+}
+
+.small-text {
+    font-size: 1em;
+}
+
+.search-box {
+    border: 1px solid lightgrey !important;
+}
+
+.serach-label {
+    padding-left: 7px !important;
+}
+
+.floating-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+.tiny-text{
+    font-size: 0.7em;
+}
+
+/* Developer: Maitri Modi */
+
+.logo-font {
+    font-family: 'Pacifico', cursive !important;
+}
+
+.title-position {
+    top: 0px;
+    color: black !important;
+    font-weight: 500 !important;
+    font-size: 40px !important;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.tutor-description {
+    color: #757575 !important;
+    font-weight: 300 !important;
+    font-size: 18px !important;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.card-style {
+    padding-top: 0px !important;
+    margin: 0px !important;
+}
+
+.footer-style {
+    margin-left: 170px !important;
+}
+
+.contact-form {
+    padding: 10px;
+}
+
+.form-title {
+    font-size: 30px;
+    margin: 0;
+    margin-left: 60px;
+}
+
+.contact-message {
+    width: 100% !important;
+}
+
+.contact-submit {
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+.contact-basic-padding {
+    padding: 10px;
+}
+
+.contact-basic-padding p {
+    margin: 0px;
+}
+
+.contact-basic-padding label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.contact-container fieldset {
+    padding: 20px;
+}
+
+.add-contact-title{
+    font-size: 35px !important;
+    width:50% !important;
+    color: orange;
+    font-weight: 400;
+    margin-left:12px !important;
+    margin-bottom:22px !important;
+}
+
+.add-contact-form{
+    margin:0 !important;
+    width:90% !important;
+    margin:0px !important;
+    margin-bottom:15px !important;
+}
+
+.add-contact-element-title{
+    color:orange;
+}
+
+.add-contact-address{
+    width: 87% !important;
+    margin-left: 11px !important;
+}
+
+.add-contact-flex{
+    display: flex;
+}
+
+.add-contact-label{
+    margin-top: 36px;
+    margin-left: 53px;
+    margin-right: 10px;
+    font-size: 17px;
+}
+
+.add-contact-field{
+    margin-top: 14px !important;
+    /* margin-left: 45px !important; */
+}
+
+.add-contact-change-fields{
+    border-style: solid;
+}
+
+.add-contact-error{
+    color: red;
+}
+
+.contact-main-container{
+    margin-left: 145px;
+}
+
+.list-sub-add-btn{
+    margin-left: 10px;
+    right:10px !important;
+}
+
+.sub-list{
+    margin-top:62px;
+}
+
+.add-contact-btn{
+    margin-left:35px;
+    margin-top:30px;
+}
+
+.sub-image{
+    height:350px;
+    width:40px;
+}
+
+.show-sub{
+    margin-left: 10px;
+    margin-top:20px;
+}
+
+.show-sub-title{
+    margin-top: auto;
+}
+
+.sub-update-btn{
+    margin-top:20px;
+}
+
+.sub-update-title{
+    font-size: 35px !important;
+    width:50% !important;
+    font-weight: 400;
+    margin-left:12px !important;
+    margin-bottom:22px !important;
+}
+
+.mobileHamburger{
+    color: white;
+}
+/*-----------------Shubham ---*/
+.cursor-pointer:hover{
+    cursor: pointer;
+}
+.modal-footer-LearningRoom{
+    padding: 10px 0 20px 0;
+}
+.modal-footer-LearningRoom a{
+    margin-left: 120px;
+}
+.modal-learning-popup{
+    width:35%;
+}
+.delete-btn-learningRoom{
+    background-color: #F15E5E;
+}
+
+.subject-style{
+    padding-left: 142px;
+    padding-right: 135px;
+}
+}

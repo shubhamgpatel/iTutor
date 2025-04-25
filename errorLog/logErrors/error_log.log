@@ -1,0 +1,1088 @@
+Error reporting
+	 Date Time: 2020-04-12 23:27:12
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(vendor/autoload.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\utilities\EmailUtility.php
+	 Error line number: 9
+End reporting
+Error reporting
+	 Date Time: 2020-04-12 23:31:53
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../vendor/autoload.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\database\EmailUtility.php
+	 Error line number: 9
+End reporting
+Error reporting
+	 Date Time: 2020-04-12 23:38:13
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../vendor/autoload.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\utilities\EmailUtility.php
+	 Error line number: 9
+End reporting
+Error reporting
+	 Date Time: 2020-04-12 23:39:59
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../vendor/autoload.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\utilities\EmailUtility.php
+	 Error line number: 9
+End reporting
+Error reporting
+	 Date Time: 2020-04-12 23:57:47
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(vendor/autoload.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\utilities\EmailUtility.php
+	 Error line number: 9
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 01:31:34
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: isFormValid
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\forgotPassword.php
+	 Error line number: 51
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 01:59:31
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: ErrorMsg
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\addUserContact.php
+	 Error line number: 108
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 01:59:35
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: ErrorMsg
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\addUserContact.php
+	 Error line number: 108
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:37
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:38
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:39
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:42
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:42
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:42
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:43
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:44
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:44
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:44
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:44
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 02:35:44
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 05:24:45
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../includes/adminFooter.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\listSubjects.php
+	 Error line number: 134
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 05:25:40
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../includes/adminFooter.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\listSubjects.php
+	 Error line number: 134
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 05:25:55
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../includes/adminFooter.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\listSubjects.php
+	 Error line number: 134
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 05:27:54
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../includes/adminFooter.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\listSubjects.php
+	 Error line number: 134
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 05:27:57
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../includes/adminFooter.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\showSubject.php
+	 Error line number: 51
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 05:29:28
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../includes/adminFooter.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\listSubjects.php
+	 Error line number: 134
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 05:29:41
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../includes/adminFooter.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\listSubjects.php
+	 Error line number: 134
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 05:29:44
+	 Error Number: 2
+	 Error Type: warning
+	 Error Message: require_once(../includes/adminFooter.php): failed to open stream: No such file or directory
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\showSubject.php
+	 Error line number: 51
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:21
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:22
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:22
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:22
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:22
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:22
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:22
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:22
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:22
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting
+Error reporting
+	 Date Time: 2020-04-13 06:09:22
+	 Error Number: 8
+	 Error Type: Notice
+	 Error Message: Undefined variable: username
+	 file name: C:\xampp\htdocs\project-repo-webndevelopers\includes\adminHeader.php
+	 Error line number: 40
+End reporting

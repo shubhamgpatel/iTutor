@@ -1,0 +1,21 @@
+{
+  "require": {
+    "phpmailer/phpmailer": "^6.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "utilities\\": "utilities",
+      "database\\": "database",
+      "errorLog\\" : "errorLog"
+    },
+    "files": ["errorLog/errorHandle.php"],
+    "classmap": [
+      "utilities",
+      "database",
+      "database/classes",
+      "database/classes/models",
+      "errorLog",
+      "EmailUtility.php"
+    ]
+  }
+}
